@@ -1,0 +1,1 @@
+- [Programming paradigm - Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)

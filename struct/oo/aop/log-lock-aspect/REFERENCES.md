@@ -1,0 +1,2 @@
+- [C++ 实现 AOP（面向切面编程） - vison0300的专栏 - CSDN博客](https://blog.csdn.net/vison0300/article/details/50634462)
+- [c++ - Compiling C++11 with g++ - Stack Overflow](https://stackoverflow.com/questions/10363646/compiling-c11-with-g)
